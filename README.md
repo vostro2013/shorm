@@ -1,0 +1,2 @@
+# shorm
+Spring HBase ORM
